@@ -11,11 +11,6 @@
       height: fit-content;
     }
   }
-  @media screen and (min-width: 1200px){
-    .logo{
-      content: "Kamal Mehra";
-    }
-  }
   
   @media screen and (max-width: 1200px) {
     #desktop-nav {
