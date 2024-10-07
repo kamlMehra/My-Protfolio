@@ -18,6 +18,7 @@
   }
   #hamburger-nav {
     display: flex;
+    height: 11vh;
   }
   #experience,
   .experience-details-container {
